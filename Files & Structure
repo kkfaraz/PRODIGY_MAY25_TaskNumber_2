@@ -1,0 +1,8 @@
+prodigy_ds_task2_customer_segmentation/
+│
+├── customer_segmentation_kmeans.py     # Complete Python script
+├── Segmented_Customers.csv             # Output file (after running script)                   
+├── README.md                           # Professional documentation
+└── visuals/
+    ├── elbow_method.png
+    ├── cluster_visualization.png
