@@ -1,5 +1,5 @@
 # 🛍️ Customer Segmentation using K-Means Clustering
-### Internship Task 2 – Prodigy InfoTech | Machine Learning Track
+### Internship PIT/MAY25/10962_Task 2 – Prodigy InfoTech | Machine Learning Track
 
 ---
 
